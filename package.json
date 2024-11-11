@@ -4,6 +4,7 @@
   "description": "",
   "main": "public/main.js",
   "scripts": {
+    "serve": "electron .",
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
